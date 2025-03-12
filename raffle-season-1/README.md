@@ -19,7 +19,9 @@ The Silencio Raffle Airdrop script automates the process of distributing prizes 
 
 ## Seed Generation
 
-The raffle seed is generated based on the results of a [community poll conducted on the Silencio X account](https://twitter.com/silencioNetwork/status/1895130591881756822), resulting in the following seed strings:
+The raffle seed is generated based on the results of a [community poll conducted on the Silencio X account](https://twitter.com/silencioNetwork/status/1895130591881756822), resulting in the following seed strings. The digits used in the seed are the rounded numbers found in the mobile X app:
+
+![community_seed_vote.jpg](community_seed_vote.jpg)
 
 - **For SLC Prizes:**
   ```
