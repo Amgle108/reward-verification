@@ -1,0 +1,26 @@
+Input Type: File
+Output Encoding: Hex (lower case)
+
+#### Files
+
+Downloading directly from the repository:
+- silencio_raffle_eligible_users_march_2025.csv: 38a2c9aba3e31b7a7304251b0fbc01b2ccc2d6d34ccfe867b3b87932ceecc570
+- physical_prizes.csv: 33f78e4e9210e1e370f1d91fabc5a15e933287f2dc382bd5d830f01889f9bfba
+- slc_prizes.csv: 548ed54f4494e188c94a6c1694113e1a05c844a63f58c003ca5afddc439ff7df
+- raffle_airdrop.py: 3fc2937de618a6a62b0491c33db7060bc9908e08c70be6b90aae74009876e7ca
+- physical_prizes_raffle_results.csv: 03677cace94e7c2044feaa855ac7ba6d9f94f50c5795acaf5e4d350b5b90330f
+- slc_prizes_raffle_results.csv: 0d8dc418f324c466478bc3c4bb00ed125695fc61adadd2b6f7ddea2fd4400ba1
+- community_seed_vote.jpg: d3f133b21f5ad494a6a4a7fe7cde364548c3d671677625adf779a61a3a6667b1
+
+TxId: https://peaq.subscan.io/tx/0x85f873ed895c995005fe653badc41db9802711a00f86a97886418f963980e7f8
+
+Cloning the repo in Windows might add CLRF line terminators and hashes will be different:
+- silencio_raffle_eligible_users_march_2025.csv: 0a07e2c8c8d478e9fafaf9f29d36f912e5a995a1cdf5b3f018689751184a6641
+- physical_prizes.csv: e967f20d135e5151d51d76ed38f7ccb252123af6bd3e0445d3cc9b8086ba5cf4
+- slc_prizes.csv: 83da0abeaa116c111dfb82bdc95d44c87cb3ea16345edb10124ae66a21bfecde
+- raffle_airdrop.py: 5e11e75468411bba33aac40f0a8db77937f768d68611220b95d9ab5c648822b0
+- physical_prizes_raffle_results.csv: 9d230dfa8ce3bbb410ba0f71a2a4f56097a2d50c0c8ea286847890611bc061b2
+- slc_prizes_raffle_results.csv: a527f0bdb615b95a8b8edc1f94ec8a3186fc24a23c450389b15bfd21f26630b6
+- community_seed_vote.jpg: d3f133b21f5ad494a6a4a7fe7cde364548c3d671677625adf779a61a3a6667b1
+
+TxId: https://peaq.subscan.io/tx/0x3a7ca4eff229510f062c659e08552727218791088b5926c473ee8d3fd240ceab

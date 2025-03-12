@@ -19,9 +19,7 @@ The Silencio Raffle Airdrop script automates the process of distributing prizes 
 
 ## Seed Generation
 
-The raffle seed is generated based on the results of a [community poll conducted on the Silencio X account](https://twitter.com/silencioNetwork/status/1895130591881756822), resulting in the following seed strings. The digits used in the seed are the rounded numbers found in the mobile X app:
-
-![community_seed_vote.jpg](community_seed_vote.jpg)
+The raffle seed is generated based on the results of a [community poll conducted on the Silencio X account](https://twitter.com/silencioNetwork/status/1895130591881756822), resulting in the following seed strings:
 
 - **For SLC Prizes:**
   ```
@@ -118,3 +116,17 @@ The final raffle results are saved in `raffle_results/raffle_results.csv`.
 | **emerald**          | Number of Emerald Gemstones earned by the user. |
 | **ruby**             | Number of Ruby Gemstones earned by the user. |
 | **diamond**          | Number of Diamond Jewels earned by the user. |
+
+# Verify that these are the original files used in the raffle
+
+Files were hashed and stored on chain. If you want to verify these files weren't tampered with since the raffle you can follow these steps:
+
+1. Download or clone repository (you might get a different checksum hash if cloning the repository into some systems that add CRLF line terminators. Both checksum hashes were published on the blockchain for you to verify.)
+
+2. Apply a sha256 Checksum to any of the following files (**generate sha256 file checksum**) and validate against the hashes stored on this file `raffle-season-1/hashed_files_raffle_airdrop_march_2025.txt`: 
+- `silencio_raffle_eligible_users_march_2025.csv`
+- `token_assignment/slc_prizes.csv`
+- `token_assignment/physical_prizes.csv`, `raffle_airdrop.py`
+- `raffle_results/physical_prizes_raffle_results.csv`
+- `raffle_results/slc_prizes_raffle_results.csv`
+- `community_seed_vote.jpg`
