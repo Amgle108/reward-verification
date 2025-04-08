@@ -7,6 +7,7 @@ This repository contains the verification files for each Silencio Raffle Season.
 | Silencio Raffle          | Subdirectory |
 |----------------------|-------------|
 | **Season 1**   | `raffle-season-1/` |
-| **Season 2**   | Upcoming April 2025 |
+| **Season 2**   | `raffle-season-2/` |
+| **Season 3**   | Upcoming May 2025 |
 
 For detailed instructions on running verifications for a specific season, refer to the README within the respective subdirectory.
