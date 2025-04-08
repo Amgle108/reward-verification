@@ -1,0 +1,11 @@
+season_id,prize_id,prize_name,prize_quantity,prize_value
+2,1,iron,29000000,1.0
+2,2,bronze,25000000,1.5
+2,3,silver,20000000,2.0
+2,4,gold,12000000,3.0
+2,5,platinum,9599990,4.6007
+2,6,amethyst,3000000,15.0
+2,7,sapphire,1000000,45.0
+2,8,emerald,300000,250.0
+2,9,ruby,100000,800.0
+2,10,diamond,10,11000000.0
