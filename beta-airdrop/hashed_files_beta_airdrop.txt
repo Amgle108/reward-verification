@@ -1,0 +1,14 @@
+Input Type: File
+Output Encoding: Hex (lower case)
+
+#### Files
+
+Downloading directly from the repository:
+- public_participating_users: bd0e709bab04e7c6ded167bed8815d995ed2f470a259a56f42cb54e159a01ff7
+- beta_airdrop.py: 154f1e7aa9834cd1cc98410c083326126585afd9a84fa1243db3778bba5d2d1f
+- beta_airdrop_results: 39543c74ab35f34b3b0f5d02f9710223beadc5f5b27590eea740e0e0dd43aa5a
+
+TxId: https://peaq.subscan.io/tx/0x575b9ac83c401f1781ed8bda00bacf59b688e82d73d323718ae9f8a475d1bb4b
+
+Note: The file `beta_airdrop.py` has been slightly modified to protect user privacy. 
+As a result, its hash will not match the one stored on-chain. However, the logic, process, and outputs remain identical — the script will produce the same results using the same inputs, consistent with what was executed during the airdrop.
