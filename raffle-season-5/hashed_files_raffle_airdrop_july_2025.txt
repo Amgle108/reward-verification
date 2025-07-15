@@ -1,0 +1,15 @@
+Input Type: File
+Output Encoding: Hex (lower case)
+
+#### Files
+
+Cloning the repository:
+- silencio_raffle_eligible_users_july_2025.csv: 285020568adcf4ed988587422a02e671397b7d4e77908596401ed93d23b53403
+- slc_prizes.csv: 94a9896aae8981036993acbaf48135c81a01109286e2887588f15c2564b25f15
+- physical_prizes.csv: b8468f95b226b43823a5b8236fa6560973e6e768f062ba5e2eb1e0e3c35ef39a
+- raffle_airdrop.py: 0508f06156ec47e5b409318def0da04b217fc33b386c872aa52742577752bca4
+- slc_prizes_raffle_results.csv: e880e8325bb5c5dd6d01b20aa2ab68300656025d15139f41d6926782d4750f11
+- physical_prizes_raffle_results.csv: 2bbdaa57e60f5f89eb89ba2514ceeeebb115661d3a88e7bce1438803ebdd60ab
+- community_seed_vote.jpg: feb0c9f5e5fd3bc4f163e115615843014aa5bef6acd49c7e0aeaa4485672c7ad
+
+TxId: https://peaq.subscan.io/tx/0xf4257ebfd7c572b78c3af7e9d009c8d3d9a4181ae49e1b0e132638dacc094060
