@@ -1,6 +1,4 @@
-Your ID verification for:
-- Beta and Raffle Season1: d4c0e21d0f0fa9e0ef257948898b4db2e9641a0ae1e6de26630ce5ee5f6b2413 
-- Season 2 onwards: aa32655d9e586171bb2cb0b1e461902a2715b402143d4dc4e1f9409df60ced14
+
 
 # Silencio Raffle Verification Repository
 
